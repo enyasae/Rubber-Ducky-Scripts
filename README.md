@@ -13,3 +13,5 @@ Terminal=true <br>
 Type=Application <br>
 Icon=notebook** <br>
 Change IP Address to attacker machine
+
+Plug in the rubber ducky to run the script in **payload.dd** file. 
