@@ -3,7 +3,7 @@
 For this project you will need the following files<br> 
 **fakeimage.desktop** (Save this file on a remote site or any accessible link - For this project we will use wget to pull this file into the location /usr/local/share/applications/_)
 
-Contents of the file - Include details and save file as fakeimage.desktop
+Contents of the file - Include details and save file as fakeimage.desktop <br>
 **[Desktop Entry] <br>
 Encoding=UTF-8 <br>
 Name=Open_Custom_File <br>
