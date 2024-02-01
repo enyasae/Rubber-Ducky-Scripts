@@ -14,7 +14,7 @@ DELAY 1000
 STRING sudo chmod +x fakeapp.desktop
 ENTER
 DELAY 1000
-STRING sudo mv notebookapp.desktop /usr/local/share/applications/
+STRING sudo mv fakeapp.desktop /usr/local/share/applications/
 ENTER
 DELAY 1000
 STRING exit
