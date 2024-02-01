@@ -14,4 +14,4 @@ Type=Application <br>
 Icon=notebook** <br>
 Change IP Address to attacker machine
 
-Plug in the rubber ducky to run the script in **payload.dd** file. 
+Plug in the rubber ducky to run the script in **payload.dd** file. In the payload.dd file one can get creative and introduce a shorcut to the desktop for this fake application. The icon can be changed to common icons as users will easily run files/apps they can easily identify with.
